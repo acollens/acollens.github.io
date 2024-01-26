@@ -5,6 +5,7 @@ website:
   title: "Adena Collens"               # Your name
   description: "Ph.D. Student at University of Maryland Studying Evolutionary Microbiology"  # A brief slogan (optional)
   image: img/collens.png
+  google-analytics: "G-KB8JNDB6QC"
   
   favicon: img/collens.png
   
