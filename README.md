@@ -1,4 +1,5 @@
-# Quarto Template for the Tutorial
+Personal website of Adena Collens. 
 
-This repository contains the template for the website tutorial at <https://www.marvinschmitt.com/blog/website-tutorial-quarto/>.
+### Quarto Template for the Tutorial
+Find the template for the website and tutorial at <https://www.marvinschmitt.com/blog/website-tutorial-quarto/>.
 
