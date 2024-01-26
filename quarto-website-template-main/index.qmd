@@ -1,0 +1,32 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/collens.jpg"
+  links:
+    - icon: newspaper
+      text: OrcidID
+      href: https://orcid.org/0000-0002-1016-9999
+    - icon: github
+      text: Github
+      href: https://github.com/acollens
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/adena-collens/
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.acollens@umd.edu"  
+---
+
+::: {#about-block}
+:::
+
+Hi, I'm Adena! I'm a first-year Ph.D. student in [Biological Sciences](https://www.bisi.umd.edu/) at University of Maryland, where I'm exploring environmental microbial evolution. I enjoy using bioinformatics and microscopy to investigate the exciting questions of the microbial world.
+
+My previous work in the [Katz Lab](https://www.science.smith.edu/katzlab/) at Smith College and the [Lin Lab](https://lin.engin.umich.edu/) at University of Michigan drove my curiosity for evolution and microbiology.
+
+Most recently, I explored data accessibility in microbiology manuscripts in the [Schloss Lab](https://www.schlosslab.org/) at Michigan Medicine. At Michigan, I became a certified [Carpentries](https://carpentries.org/index.html) Instructor, and I'm continuing instructing with the Smithsonian Institution Carpentries chapter.
+
+Outside the lab, you can find me playing rugby or reading graphic novels and zines.
+
+
