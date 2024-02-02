@@ -21,7 +21,7 @@ about:
 ::: {#about-block}
 :::
 
-Hi, I'm Adena! I'm a first-year Ph.D. student in [Biological Sciences](https://www.bisi.umd.edu/) at University of Maryland, where I am exploring environmental microbial evolution in my lab rotations. I am using bioinformatics and microscopy to investigate the exciting questions about co-evolution in the microbial world.
+Hi, I'm Adena! I'm a first-year Ph.D. student in [Biological Sciences](https://www.bisi.umd.edu/) at University of Maryland. I use bioinformatics and microscopy to investigate the exciting questions about co-evolution in the microbial world.
 
 My previous research focused on microbial eukaryotic biodiversity and genome evolution in [Prof. Laura Katz's Lab](https://www.science.smith.edu/katzlab/) and strain engineering in [Prof. Nina Lin's Lab](https://lin.engin.umich.edu/). I also assessed data accessibility in microbiology manuscripts as a bioinformatician in [Prof. Pat Schloss's Lab](https://www.schlosslab.org/). 
 
