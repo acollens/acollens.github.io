@@ -6,9 +6,9 @@ title: Current Projects
 
 Collaboration with Allen Collins
 
-While instances of acquired phototrophy can be found across the eukaryotic tree of life, much about the evolution and maintenance of these endosymbiotic interactions remains unknown.
+Examples of acquired phototrophy can be found across the eukaryotic tree of life. One instance of this is the relationship between marine acoel worms and the photosynthetic algae beneath their skin. Their symbiosis has fascinated biologists for [more than 110 years](https://books.googleusercontent.com/books/content?req=AKW5Qaf-_OnQm4fzKR1Vod_vmQeVCBcH0-4CGgD858xFTXIHaINsk4NWOfzkh3AveN8XipLyiT_njBCYVHIke6dr52SiRL9tvmj5uQnBsYRaNKPLtSlbujsLCJh6dWOWH9Mseq4rtewy7zawyediApmK9nevRQfyoW7XlkCFhCdqTUQkqKUOtszmp6jM8PxypgC1IiLI_-lETxkLOLSFmvLKk8XjRSARSRq2VetwkWJENZ-wCg9J81TRZYqPQmBHx-LSTfmUlkas)!
 
--   The relationship between marine acoel worms and the photosynthetic algae beneath their skin has fascinated biologists for [more than 110 years](https://books.googleusercontent.com/books/content?req=AKW5Qaf-_OnQm4fzKR1Vod_vmQeVCBcH0-4CGgD858xFTXIHaINsk4NWOfzkh3AveN8XipLyiT_njBCYVHIke6dr52SiRL9tvmj5uQnBsYRaNKPLtSlbujsLCJh6dWOWH9Mseq4rtewy7zawyediApmK9nevRQfyoW7XlkCFhCdqTUQkqKUOtszmp6jM8PxypgC1IiLI_-lETxkLOLSFmvLKk8XjRSARSRq2VetwkWJENZ-wCg9J81TRZYqPQmBHx-LSTfmUlkas)!
+Despite this, much about the evolution and maintenance of these endosymbiotic interactions remains unknown.
 
 -   Past work shows that unfed *Convolutriloba* with endosymbiotic *Tetraselmis* algae lose less biomass in the light than in the dark, suggesting a transfer of photosynthethates to the host. However, the mechanisms and likely benefits to host and alga have yet to be described. Previous work also suggests a long-term coevolution between acoel worm hosts and their algae.
 
@@ -19,6 +19,8 @@ While instances of acquired phototrophy can be found across the eukaryotic tree 
     -   We conducted phylogenetic analyses using several assembled markers to elucidate the relationships of C. longifissura and Tetraselmis sp. to existing sequencing data from acoel worms and green alga, respectively.
 
     -   In light of these findings, I intend to expand to the comparative analysis of transcriptome data to illuminate possible indicators, mechanisms, and interactions of this likely acquired phototrophic interaction.
+
+![](Convolutriloba longifissura_2024_06_130016.png){fig-align="center" width="437"}
 
 ## **A Novel Plasmid Reconstruction and Identification Pipeline for Salmonella Outbreak Tracking** 
 

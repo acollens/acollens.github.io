@@ -1,0 +1,25 @@
+---
+title: Outreach and Education
+---
+
+## World Ocean Day 
+
+###### June 7th, 2024
+
+I had a great time introducing Natural History museum visitors to *Convolutriloba* and their internal garden of *Tetraselmis* algae. We used dinoscopes (small handheld light microscopes) to take a look at the worms swimming and laying flat in the dish to let their algae absorb the light from a flashlight. (Photos by Phillip R. Lee, Smithsonian Institution)
+
+![](NMNH-2024-02118.jpg)
+
+![](NMNH-2024-02119.jpg)
+
+![](NMNH-2024-02120.jpg)
+
+![](NMNH-2024-02122.jpg)
+
+## Rutgers Data Carpentries Genomics Workshop 
+
+###### April 25-26th 2024
+
+I had an amazing time teaching the Genomics Carpentries workshop to biologists at Rutgers looking to expand their bioinformatics skills. It was my first non-home institution workshop and it went very well, Janet Adler and the iJOBs program were great hosts I was glad to be invited to teach alongside Aziz Khan, with helpers Khang Dang & Sam Desind.
+
+![](rutgers_workshop_spring24.jpeg)

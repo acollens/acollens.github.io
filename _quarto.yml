@@ -21,6 +21,8 @@ website:
         href: projects/index.qmd
       - text: "CV"
         href: cv/index.qmd
+      - text: "Outreach & Education"
+        href: outreach/index.qmd
     
     # your social media handles
     right:
