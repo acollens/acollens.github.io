@@ -1,6 +1,31 @@
 ---
-title: Projects
+title: Current Projects
 ---
 
-## This Page is Under Construction!
+## Co-Evolution and Genetic Diversity of Acquired Phototrophy in Marine Worm *Convolutriloba longifissura*
 
+Collaboration with Allen Collins
+
+While instances of acquired phototrophy can be found across the eukaryotic tree of life, much about the evolution and maintenance of these endosymbiotic interactions remains unknown.
+
+-   The relationship between marine acoel worms and the photosynthetic algae beneath their skin has fascinated biologists for [more than 110 years](https://books.googleusercontent.com/books/content?req=AKW5Qaf-_OnQm4fzKR1Vod_vmQeVCBcH0-4CGgD858xFTXIHaINsk4NWOfzkh3AveN8XipLyiT_njBCYVHIke6dr52SiRL9tvmj5uQnBsYRaNKPLtSlbujsLCJh6dWOWH9Mseq4rtewy7zawyediApmK9nevRQfyoW7XlkCFhCdqTUQkqKUOtszmp6jM8PxypgC1IiLI_-lETxkLOLSFmvLKk8XjRSARSRq2VetwkWJENZ-wCg9J81TRZYqPQmBHx-LSTfmUlkas)!
+
+-   Past work shows that unfed *Convolutriloba* with endosymbiotic *Tetraselmis* algae lose less biomass in the light than in the dark, suggesting a transfer of photosynthethates to the host. However, the mechanisms and likely benefits to host and alga have yet to be described. Previous work also suggests a long-term coevolution between acoel worm hosts and their algae.
+
+-   Our study centers on *Convolutriloba longifissura* - *Tetraselmis sp*. photosymbiosis.
+
+    -    We present the first genetic characterization of the intercellular algae using low-pass whole genome sequencing data. Using short-read Illumina data, we assembled and annotated organellar genomes from both the acoel worm and the Tetraselmis alga, as well as nuclear ribosomal repeats from the acoel worm.
+
+    -   We conducted phylogenetic analyses using several assembled markers to elucidate the relationships of C. longifissura and Tetraselmis sp. to existing sequencing data from acoel worms and green alga, respectively.
+
+    -   In light of these findings, I intend to expand to the comparative analysis of transcriptome data to illuminate possible indicators, mechanisms, and interactions of this likely acquired phototrophic interaction.
+
+## **A Novel Plasmid Reconstruction and Identification Pipeline for Salmonella Outbreak Tracking** 
+
+Collaboration with Nathalie A. I. Bonin, Seth Commichaux, and Mihai Pop
+
+-   Food-borne illnesses cause 128K hospitalizations and \$15.5B in economic impact annually. Because of this, the Food and Drug Administration curates genomes of the most common pathogens in the NCBI Pathogen Detection database (NCBI-PD), currently totaling 1.8M isolates. These data are the basis of over 1,220 published research studies and applications to-date on detection and treatment of food-borne illness.
+
+-   A recent pilot study on a Salmonella outbreak revealed the critical role of plasmids (mobile DNA isolated from the main chromosome) in epidemiological tracking. Despite this, plasmids remain under-used in pathogen identification and tracing because NCBI-PD genomes are assembled through a method which ineffectively captures plasmid sequences. Moreover, prevailing plasmid assembly tools have yet to be benchmarked for large, high-throughput datasets or are unable to distinguish between chromosomal and plasmid sequences.
+
+-   Our project aims to re-analyze a randomly-chosen subset of raw sequences from the NCBI-PD genomes to include pathogen-associated plasmids. First, we are benchmarking existing plasmid reconstruction methods. Next we are incorporating scalable and reproducible methods for sequence assembly, sorting, and clustering into current plasmid reconstruction methods and databases. Our workflow will annotate and validate the plasmids we assembled before re-linking them to their NCBI-PD bacterial isolates resulting in an improved and robust data set. Upon reaching significant improvements with this preliminary subset, we plan to expand our analysis to the entire database.

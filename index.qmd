@@ -21,13 +21,11 @@ about:
 ::: {#about-block}
 :::
 
-Hi, I'm Adena! I'm a first-year Ph.D. student in [Biological Sciences](https://www.bisi.umd.edu/) at University of Maryland. I use bioinformatics and microscopy to investigate the exciting questions about co-evolution in the microbial world.
+Hi, I'm Adena! I'm a first-year Ph.D. student in [Biological Sciences](https://www.bisi.umd.edu/) at University of Maryland co-advised by  [Prof. Mihai Pop](https://sites.google.com/a/cs.umd.edu/poplab/) and [Prof. Allen Collins](https://naturalhistory.si.edu/research/invertebrate-zoology/research/collins-lab). I use metagenomic assembly methods to investigate exciting questions about co-evolution between microbes and their hosts. 
 
 My previous research focused on microbial eukaryotic biodiversity and genome evolution in [Prof. Laura Katz's Lab](https://www.science.smith.edu/katzlab/) and strain engineering in [Prof. Nina Lin's Lab](https://lin.engin.umich.edu/). I also assessed data accessibility in microbiology manuscripts as a bioinformatician in [Prof. Pat Schloss's Lab](https://www.schlosslab.org/). 
 
 While there, I started volunteering as a certified [Software Carpentries](https://carpentries.org/index.html) Instructor. I currently instruct workshops with the Smithsonian Institution Carpentries chapter.
-
-I am currently rotating in [Prof. Mihai Pop's Lab](https://sites.google.com/a/cs.umd.edu/poplab/). 
 
 Outside the lab, you can find me playing kickball, rugby, or reading zines.
 
