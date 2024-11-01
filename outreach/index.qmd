@@ -2,7 +2,7 @@
 title: Outreach and Education
 ---
 
-## World Ocean Day 
+## World Ocean Day
 
 ###### June 7th, 2024
 
@@ -12,11 +12,8 @@ I had a great time introducing Natural History museum visitors to *Convolutrilob
 
 ![](NMNH-2024-02119.jpg)
 
-![](NMNH-2024-02120.jpg)
 
-![](NMNH-2024-02122.jpg)
-
-## Rutgers Data Carpentries Genomics Workshop 
+## Rutgers Data Carpentries Genomics Workshop
 
 ###### April 25-26th 2024
 
